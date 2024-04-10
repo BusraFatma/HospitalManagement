@@ -1,1 +1,1 @@
-Hospital Managament 
+Hospital Managament System
